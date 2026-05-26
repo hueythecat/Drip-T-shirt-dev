@@ -8,7 +8,7 @@ export default function App() {
         <p className="tagline">Design your perfect tee</p>
       </header>
       <main>
-        <p className="coming-soon">Coming soon</p>
+        <p className="coming-soon">Coming soon!</p>
       </main>
     </div>
   )
