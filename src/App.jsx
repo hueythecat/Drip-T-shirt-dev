@@ -9,7 +9,7 @@ export default function App() {
       </header>
       <main>
         <p className="text-sm text-gray-600 border border-gray-800 px-6 py-3 rounded-full uppercase tracking-widest">
-          Coming soon!
+          Coming Soon!
         </p>
       </main>
     </div>
